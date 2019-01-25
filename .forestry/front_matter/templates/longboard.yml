@@ -1,0 +1,18 @@
+---
+label: longboard
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: headline
+  label: Headline
+  config:
+    required: true
+- type: text
+  name: url
+  label: URL
+  config:
+    required: true
+- type: textarea
+  name: commentary
+  label: Commentary
